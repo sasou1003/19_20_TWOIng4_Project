@@ -1,5 +1,10 @@
 # Projet de fin de semestre
 
+OCRES Groupe 2 - Sara Sandid et Rémi Flippo
+
+Projet : https://github.com/sasou1003/Projet
+
+
 A lire impérativement avant de commencer quoi que ce soit, ce sont les règles que vous devrez appliquer tout au long du semestre:
 
 <p align="center">
