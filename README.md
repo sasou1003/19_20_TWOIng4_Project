@@ -4,6 +4,10 @@ OCRES Groupe 2 - Sara Sandid et Rémi Flippo
 
 Projet : https://github.com/sasou1003/Projet
 
+Organisation trello : https://trello.com/b/nZbwGV60/projet-web
+
+Wireframe : 
+
 
 A lire impérativement avant de commencer quoi que ce soit, ce sont les règles que vous devrez appliquer tout au long du semestre:
 
