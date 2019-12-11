@@ -6,7 +6,7 @@ Projet : https://github.com/sasou1003/Projet
 
 Organisation trello : https://trello.com/b/nZbwGV60/projet-web
 
-Wireframe : 
+Wireframe : dossier dans le front avec les 2 pages
 
 
 A lire impérativement avant de commencer quoi que ce soit, ce sont les règles que vous devrez appliquer tout au long du semestre:
